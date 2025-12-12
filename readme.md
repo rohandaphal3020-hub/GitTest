@@ -7,3 +7,9 @@
 >> git commit -m "update the file"
 >> git push origin main
 ```
+
+### Check branch
+
+```bash
+>> git brach
+```
