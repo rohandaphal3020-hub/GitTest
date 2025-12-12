@@ -11,5 +11,5 @@
 ### Check branch
 
 ```bash
->> git brach
+>> git branch  # It will show the all branch
 ```
